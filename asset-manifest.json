@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SumanthDivvela555/textutils/static/css/main.e6c13ad2.css",
+    "main.js": "/SumanthDivvela555/textutils/static/js/main.68eebd7e.js",
+    "static/js/787.719ec76d.chunk.js": "/SumanthDivvela555/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/SumanthDivvela555/textutils/index.html",
+    "main.e6c13ad2.css.map": "/SumanthDivvela555/textutils/static/css/main.e6c13ad2.css.map",
+    "main.68eebd7e.js.map": "/SumanthDivvela555/textutils/static/js/main.68eebd7e.js.map",
+    "787.719ec76d.chunk.js.map": "/SumanthDivvela555/textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.68eebd7e.js"
+  ]
+}
